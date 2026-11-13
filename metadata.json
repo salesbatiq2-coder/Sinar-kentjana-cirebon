@@ -1,0 +1,11 @@
+{
+  "name": "NOO Sinar Kentjana - Form New Open Outlet",
+  "description": "Aplikasi Form New Open Outlet (NOO) Sinar Kentjana Group & Batiq Electrical Cirebon. Dilengkapi verifikasi GPS, kamera langsung untuk 5 foto wajib toko & dokumen, tanda tangan digital (Sales, Leader, Toko), portal admin, export PDF & Excel, dan pengiriman email.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
